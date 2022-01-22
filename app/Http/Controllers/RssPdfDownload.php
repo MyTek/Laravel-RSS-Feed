@@ -2,8 +2,6 @@
 
 namespace App\Http\Controllers;
 
-//use App\Http\Controllers\Controller;
-//use App\Models\User;
 use Dompdf\Dompdf;
 
 class RssPdfDownload extends Controller
